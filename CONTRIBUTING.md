@@ -15,7 +15,7 @@ The rules format is public on purpose: community review is how it gets better.
 
 - **The rules themselves.** The transcription (`rules/chain-of-custody.rules.json`) lives
   in the specification repository, under its governance:
-  https://github.com/smuchow1962/ffiec-chain-of-custody
+  https://github.com/mmpworks/SR-26.2-Model-Risk-Management (the canonical spec repo; it is published to the submission repo `smuchow1962/ffiec-chain-of-custody`)
 - **Questions about what the specification means.** File those as spec proposals in the
   specification repository. This repo never settles them (decision DSL-020).
 

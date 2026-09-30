@@ -18,7 +18,7 @@ hand-written, independent code.
   machines. **The format is public so the community can improve it.**
 - **The rules file** is an unofficial transcription of the spec, and the spec prose
   prevails on any conflict. It lives in the specification repository, under spec
-  governance: https://github.com/smuchow1962/ffiec-chain-of-custody
+  governance: https://github.com/mmpworks/SR-26.2-Model-Risk-Management (the canonical spec repo; it is published to the submission repo `smuchow1962/ffiec-chain-of-custody`)
 - **`rulesgen`**: a Go program (standard library only) that validates the rules file and
   generates checked-in Go and Python code (C# later). A tripwire test forbids hand-held
   copies elsewhere.

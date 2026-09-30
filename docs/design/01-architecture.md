@@ -67,7 +67,7 @@ it is data.
 | `engines/py/` | Python | Apache | The same, written independently. |
 | `materializer/` | Python | Apache | Reference materializer: manifest + base vector → fixture files. Uses one primitive module (JCS via `jcs`, RFC 6962 with a single split algorithm, HKDF with tenant and device info, sign_payload versions) that replaces the 25 scripts' copies. |
 | `conformance/` | JSON | Apache | Engine conformance cases and input-profile cases. |
-| `rules/chain-of-custody.rules.json` | JSON | Apache | The transcription. **It lives in the spec repo** (`smuchow1962/ffiec-chain-of-custody`), under spec governance, not here (DSL-012). |
+| `rules/chain-of-custody.rules.json` | JSON | Apache | The transcription. **It lives in the spec repo** (`mmpworks/SR-26.2-Model-Risk-Management`), under spec governance, not here (DSL-012). |
 
 **Not in this repo:**
 
