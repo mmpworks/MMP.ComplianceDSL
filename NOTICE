@@ -1,0 +1,8 @@
+MMP.ComplianceDSL
+Copyright 2026 MMPWorks LLC and contributors
+
+Licensed under the Apache License, Version 2.0. See LICENSE.
+
+This repository holds tooling for a machine-readable, unofficial transcription
+of the FFIEC AI chain-of-custody proposed specification. The specification
+prose is normative and prevails on any conflict.

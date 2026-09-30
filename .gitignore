@@ -1,0 +1,9 @@
+# Internal research and private notes. Kept out of the public history by design;
+# the maintainer keeps these locally and in a private archive.
+docs/research/
+docs/internal/
+
+# local scratch
+*.local
+.DS_Store
+.idea/
